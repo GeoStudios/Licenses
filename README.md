@@ -1,15 +1,15 @@
-<!-- Copyright (c) GeoStudios - All Rights Reserved - License GSPL. -->
+<!-- Copyright (c) GeoStudios - All Rights Reserved - Under License GSPL. -->
 # Licenses
 
 ## The Current Licenses
 
-#### [GSPL](./GSPL.txt)
-#### [GSAL](./GSAL.txt)
-#### [MZPL](./MZPL.txt)
+#### [GSPL](./GSPL.rtf)
+#### [GSAL](./GSAL.rtf)
+#### [MZPL](./MZPL.rtf)
 
 # The Copyright
 
-#### [For Any](./All-COPYRIGHT)
-#### [For MZPL](./MZPL-COPYRIGHT)
-#### [For GSPL](./GSPL-COPYRIGHT)
-#### [For GSAL](./GSAL-COPYRIGHT)
+#### [For Any](./All-COPYRIGHT.txt)
+#### [For MZPL](./MZPL-COPYRIGHT.txt)
+#### [For GSPL](./GSPL-COPYRIGHT.txt)
+#### [For GSAL](./GSAL-COPYRIGHT.txt)
