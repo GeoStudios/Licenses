@@ -12,4 +12,3 @@
 #### [For Any](./All-COPYRIGHT.txt)
 #### [For MZPL](./MZPL-COPYRIGHT.txt)
 #### [For GSPL](./GSPL-COPYRIGHT.txt)
-#### [For GSAL](./GSAL-COPYRIGHT.txt)
